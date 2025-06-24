@@ -149,7 +149,7 @@ img {
     }
 }
 
-@media (width >= 48rem) {
+@media (min-width: 48rem) {
     .card {
         width: 25rem;
         padding: 2.5rem;
